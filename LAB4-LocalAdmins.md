@@ -33,4 +33,3 @@ However, it is still important to maintain a **local administrator account** on 
 - for adding new local admin i need Domain permission
   <img width="1919" height="576" alt="image" src="https://github.com/user-attachments/assets/d40443da-75f6-43f9-b66f-23076a7a9866" />
 <img width="1919" height="568" alt="image" src="https://github.com/user-attachments/assets/1dfb3c3b-3c8e-46b2-9df1-0d4bb7c787ce" />
-<img width="1919" height="568" alt="image" src="https://github.com/user-attachments/assets/1dfb3c3b-3c8e-46b2-9df1-0d4bb7c787ce" />
