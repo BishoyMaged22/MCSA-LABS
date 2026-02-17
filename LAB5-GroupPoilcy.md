@@ -70,5 +70,13 @@ to unlock account
 <img width="1919" height="891" alt="image" src="https://github.com/user-attachments/assets/496b3437-2d0f-4114-b226-5ff051e24edc" />
 
 -----------------
-## Task7
+## Task7 Control panel
+<img width="1919" height="883" alt="image" src="https://github.com/user-attachments/assets/45d34e10-ba29-4b63-88a1-8fa8e5b10982" />
+<img width="1919" height="886" alt="image" src="https://github.com/user-attachments/assets/aa710ae5-d000-4de1-88d3-ce3b6934d017" />
+Show specific item
+<img width="1919" height="834" alt="image" src="https://github.com/user-attachments/assets/4f33b015-794b-4afb-b4a1-5f4e8135dc7c" />
+for preventing the user to add or remove any program
+<img width="1919" height="884" alt="image" src="https://github.com/user-attachments/assets/b039bd3e-0e15-401d-bef2-c070cdd293a9" />
+
+
 
