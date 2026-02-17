@@ -78,5 +78,33 @@ Show specific item
 for preventing the user to add or remove any program
 <img width="1919" height="884" alt="image" src="https://github.com/user-attachments/assets/b039bd3e-0e15-401d-bef2-c070cdd293a9" />
 
+-------------
+## Task8 Windows firewall [Access/Deny] (ports) 
+<img width="1919" height="887" alt="image" src="https://github.com/user-attachments/assets/56ba87c1-2987-4ee1-be31-d08731d36833" />
+<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/f893dfa0-3117-4be1-b6bd-87b0a0db5684" />
+<img width="1919" height="854" alt="image" src="https://github.com/user-attachments/assets/e72c83b6-a6b6-4c37-b2d5-e8b1b714b621" />
+<img width="1919" height="888" alt="image" src="https://github.com/user-attachments/assets/2681abe0-40f4-4d94-83de-26c74856f499" />
+<img width="1919" height="883" alt="image" src="https://github.com/user-attachments/assets/940f18e7-c073-4bf3-ac88-5a7e70a3a675" />
 
+-------------
+## Task9 [LSDOU] Priorities it's as the following 
+- Local
+- Site
+- Domain
+- ou
+1-Local machine policy
+<img width="464" height="216" alt="image" src="https://github.com/user-attachments/assets/6b68e9f1-a529-45c0-94d9-604b58bbece8" />
+<img width="975" height="677" alt="image" src="https://github.com/user-attachments/assets/28b71acc-8c63-4085-9616-7349f01b33ee" />
+2-Site
+  Creating new site
+  <img width="1919" height="887" alt="image" src="https://github.com/user-attachments/assets/d5a70f16-96b5-4cb5-867f-14380388d70f" />
+<img width="1919" height="885" alt="image" src="https://github.com/user-attachments/assets/b2f1ddf7-8952-4302-88b0-4a0a43c42d31" />
+<img width="1919" height="886" alt="image" src="https://github.com/user-attachments/assets/433499c7-c4a3-49c4-bc10-b5e7c86a2ef9" />
+3-Domain
+  Default domain policy that applies on the all domain
+<img width="1919" height="888" alt="image" src="https://github.com/user-attachments/assets/57b1b523-7777-498e-8fae-5feb5866625d" />
+4- OU
+  <img width="1919" height="893" alt="image" src="https://github.com/user-attachments/assets/8b7501a7-aecf-4664-9ade-7eaf5292afc3" />
+  i can block the inherantcy from the upper periorities
+  <img width="611" height="242" alt="image" src="https://github.com/user-attachments/assets/6d330371-e7da-4ee4-b7d2-ad19f2d1366b" />
 
