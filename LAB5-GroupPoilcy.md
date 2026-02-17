@@ -37,4 +37,38 @@ EDIT
 <img width="482" height="252" alt="image" src="https://github.com/user-attachments/assets/4130f765-cffe-4c00-a2c6-65cc53f8b586" />
 
 --------
+## Task4 Password policy
+<img width="1919" height="884" alt="image" src="https://github.com/user-attachments/assets/b1bd36d2-945d-4b09-b3df-982813e360f7" />
+<img width="1919" height="895" alt="image" src="https://github.com/user-attachments/assets/2ad9295a-84e9-4ec1-8be7-af035f5cb48d" />
+Password history
+<img width="1919" height="890" alt="image" src="https://github.com/user-attachments/assets/2dda2040-8023-4282-a069-6e8057b2d9f6" />
+max password age and after that the password expires and need to be changed
+<img width="1919" height="886" alt="image" src="https://github.com/user-attachments/assets/7cceb4ba-ad6b-4db7-be53-273200b5f8c9" />
+min password age: the duration that the users can change the password in 
+such as everyday 1 time 
+<img width="1919" height="894" alt="image" src="https://github.com/user-attachments/assets/d8513b36-9f85-4ba6-9c18-4cbd3b1f4597" />
+<img width="1919" height="886" alt="image" src="https://github.com/user-attachments/assets/db18d125-cdf1-4ae8-8081-bc3a29e14a82" />
+<img width="1919" height="887" alt="image" src="https://github.com/user-attachments/assets/10501585-896b-4fc8-b6c0-35267dea2b58" />
+Account lockout duration: the duration the users need to wait to enter the password again 
+<img width="1919" height="885" alt="image" src="https://github.com/user-attachments/assets/d4735f38-43ae-43e3-9746-a14fd1db97a5" />
+5 times attempts
+<img width="1919" height="856" alt="image" src="https://github.com/user-attachments/assets/ff0bba34-d174-4b7c-8306-3d7c8882c1aa" />
+to unlock account
+<img width="1919" height="884" alt="image" src="https://github.com/user-attachments/assets/1c4d7801-aaa7-4154-9e69-13a51716a810" />
+
+---------
+## Task5 Making calculator as a script to startup with the machine 
+<img width="1919" height="894" alt="image" src="https://github.com/user-attachments/assets/1576965f-37ff-421d-b2de-c74002a8020b" />
+<img width="1919" height="889" alt="image" src="https://github.com/user-attachments/assets/a743cbfc-99c6-4f2e-9f09-d65dd59ef9a6" />
+<img width="1919" height="889" alt="image" src="https://github.com/user-attachments/assets/e861f2ee-aceb-4ecd-8ca2-a64a04039e91" />
+
+------
+## Task6 Shortcut link
+<img width="1919" height="884" alt="image" src="https://github.com/user-attachments/assets/174f8303-cc01-4eeb-b652-b2dc406d59c2" />
+<img width="1919" height="882" alt="image" src="https://github.com/user-attachments/assets/4625f1bf-6f4e-4c0f-847e-e95f82e8226b" />
+<img width="1919" height="937" alt="image" src="https://github.com/user-attachments/assets/fb325cc9-47ac-4638-8b32-eba62c63863b" />
+<img width="1919" height="891" alt="image" src="https://github.com/user-attachments/assets/496b3437-2d0f-4114-b226-5ff051e24edc" />
+
+-----------------
+## Task7
 
