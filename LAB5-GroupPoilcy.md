@@ -1,4 +1,4 @@
-#Group policy are the permissions or the resterictions applied on the users
+<img width="1919" height="890" alt="image" src="https://github.com/user-attachments/assets/717511a9-8e29-4c22-bc2c-91eefdd6ecdb" />#Group policy are the permissions or the resterictions applied on the users
 ##The Priority Goes as the following (LSDOU)
 - Local
 - Site
@@ -108,3 +108,31 @@ for preventing the user to add or remove any program
   i can block the inherantcy from the upper periorities
   <img width="611" height="242" alt="image" src="https://github.com/user-attachments/assets/6d330371-e7da-4ee4-b7d2-ad19f2d1366b" />
 
+--------
+## Task10 Control folder options
+<img width="1919" height="888" alt="image" src="https://github.com/user-attachments/assets/e179c207-7bda-45af-9992-0975f28fa398" />
+<img width="1919" height="888" alt="image" src="https://github.com/user-attachments/assets/18fc6e9c-376e-4473-9f16-f50fcafec74c" />
+and Decide what to show 
+<img width="930" height="717" alt="image" src="https://github.com/user-attachments/assets/79f2e5ab-ca50-4245-967a-ca74247f8f0d" />
+for Hiding all folder options
+<img width="1919" height="883" alt="image" src="https://github.com/user-attachments/assets/de20f50d-9df6-4af8-a624-7e91f855c443" />
+
+----------
+## Task 11 Deny group policy for user
+Choose Group policy then delegation
+<img width="1919" height="885" alt="image" src="https://github.com/user-attachments/assets/1e46d972-f3b6-4f73-8219-e6aa00c33933" />
+Advanced
+<img width="1919" height="889" alt="image" src="https://github.com/user-attachments/assets/0cae629e-b160-4714-ae43-505345b2e672" />
+Add
+<img width="1919" height="880" alt="image" src="https://github.com/user-attachments/assets/f20ff011-39fa-4108-b738-8592ea2758a1" />
+Apply group policy >> Deny
+<img width="457" height="565" alt="image" src="https://github.com/user-attachments/assets/f23b58e8-67a8-4023-a2c7-2110dc2514bc" />
+
+-------------------
+## Task12 Apply Group policy For adding Group to local admins for a machine
+- Create a file
+  <img width="144" height="154" alt="image" src="https://github.com/user-attachments/assets/7326af01-8746-4674-a5d9-52d2e4d8c3a0" />
+<img width="1919" height="418" alt="image" src="https://github.com/user-attachments/assets/96a8730b-252c-4ff4-9a6b-0483c8624a2f" />
+apply the script
+<img width="842" height="403" alt="image" src="https://github.com/user-attachments/assets/dc652c3c-5e08-4cfb-a3ca-2d0b81847220" />
+<img width="1919" height="890" alt="image" src="https://github.com/user-attachments/assets/a051bf41-7f61-4d68-9bc5-050f7abdf47c" />
