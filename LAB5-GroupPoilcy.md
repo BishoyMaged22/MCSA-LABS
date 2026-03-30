@@ -70,7 +70,7 @@ to unlock account
 <img width="1919" height="891" alt="image" src="https://github.com/user-attachments/assets/496b3437-2d0f-4114-b226-5ff051e24edc" />
 
 -----------------
-## Task7 Control panel
+## Task7 Control panel (show specific item&Disable add or remove program)
 <img width="1919" height="883" alt="image" src="https://github.com/user-attachments/assets/45d34e10-ba29-4b63-88a1-8fa8e5b10982" />
 <img width="1919" height="886" alt="image" src="https://github.com/user-attachments/assets/aa710ae5-d000-4de1-88d3-ce3b6934d017" />
 Show specific item
