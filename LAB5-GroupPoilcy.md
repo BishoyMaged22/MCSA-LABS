@@ -1,4 +1,4 @@
-<img width="1919" height="890" alt="image" src="https://github.com/user-attachments/assets/717511a9-8e29-4c22-bc2c-91eefdd6ecdb" />#Group policy are the permissions or the resterictions applied on the users
+#Group policy are the permissions or the resterictions applied on the users
 ##The Priority Goes as the following (LSDOU)
 - Local
 - Site
@@ -136,3 +136,4 @@ Apply group policy >> Deny
 apply the script
 <img width="842" height="403" alt="image" src="https://github.com/user-attachments/assets/dc652c3c-5e08-4cfb-a3ca-2d0b81847220" />
 <img width="1919" height="890" alt="image" src="https://github.com/user-attachments/assets/a051bf41-7f61-4d68-9bc5-050f7abdf47c" />
+<img width="1919" height="890" alt="image" src="https://github.com/user-attachments/assets/717511a9-8e29-4c22-bc2c-91eefdd6ecdb" />
